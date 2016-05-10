@@ -1,0 +1,23 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. 
+
+Answer the following questions:
+  
+
+* What new skills have you learned?
+  
+Honestly, none because I've been a web developer for 12 years and I do this every day.
+
+* What has been easy?
+  
+HTML is really easy for me. I've been using HTML since I was 10 years old. 
+
+* What has been difficult?
+  
+So far, nothing. I am looking forward to the Javascript sections of this Nano Degree and the version control part. 
+
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+Just Google to remember how to do a strikethrough. Not something I think I've ever needed to use before. 
